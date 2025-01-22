@@ -64,3 +64,23 @@ h1 {
 .box.trigger-all-self {
   background: var(--blue-color);
 }
+
+.box.is-blue {
+  background: aqua;
+}
+
+.box.toggle-color-on {
+  background: red;
+}
+
+.box-disapear {
+  opacity: 0%;
+}
+
+.box-change-color-blue {
+  background: aqua;
+}
+
+.box-change-color-red {
+  background: red;
+}
