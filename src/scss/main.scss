@@ -69,18 +69,18 @@ h1 {
   background: aqua;
 }
 
+.box.is-red {
+  background: red;
+}
+
+.box.is-green {
+  background: lime;
+}
+
 .box.toggle-color-on {
   background: red;
 }
 
 .box-disapear {
   opacity: 0%;
-}
-
-.box-change-color-blue {
-  background: aqua;
-}
-
-.box-change-color-red {
-  background: red;
 }
